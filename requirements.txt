@@ -1,0 +1,25 @@
+# Libraries
+ipython
+ipykernel
+ipympl
+numpy
+matplotlib
+pandas
+scikit-learn
+scipy
+seaborn
+plotly
+opencv-python
+
+# Testing
+pytest
+pre-commit
+pytest-benchmark
+
+# Linting
+flake8
+pylint
+mypy
+autopep8
+isort
+black
