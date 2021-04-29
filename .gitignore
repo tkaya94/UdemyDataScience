@@ -8,6 +8,7 @@
 *.log
 *.pptx
 TODO.txt
+!1_Intro/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
