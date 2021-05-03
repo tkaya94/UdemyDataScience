@@ -12,6 +12,7 @@ plotly
 opencv-python
 openpyxl
 tabulate
+tables
 
 # Testing
 pytest
