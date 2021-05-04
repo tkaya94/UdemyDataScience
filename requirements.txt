@@ -10,6 +10,8 @@ scipy
 seaborn
 plotly
 opencv-python
+
+# Optional for Pandas
 openpyxl
 tabulate
 tables
