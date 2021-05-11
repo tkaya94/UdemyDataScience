@@ -9,6 +9,7 @@
 *.pptx
 TODO.txt
 !1_Intro/
+quiz.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
