@@ -16,7 +16,7 @@ numba
 # Optional for Pandas
 openpyxl
 tabulate
-tables
+# tables # Errors on Windows
 
 # Testing
 pytest
