@@ -3,8 +3,6 @@
 *.isorted
 *.zip
 
-*.png
-!lena.png
 *.log
 *.pptx
 TODO.txt
