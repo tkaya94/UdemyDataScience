@@ -29,4 +29,5 @@ pylint
 mypy
 autopep8
 isort
+pre-commit
 black
